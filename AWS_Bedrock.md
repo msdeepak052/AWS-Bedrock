@@ -6,6 +6,9 @@
 
 <img width="1024" height="1536" alt="Bedrock1" src="https://github.com/user-attachments/assets/4e304d73-4d64-4efd-bb87-86f8352a4dea" />
 
+<img width="1181" height="1331" alt="AIGW" src="https://github.com/user-attachments/assets/cec4689e-8747-4d96-aeca-464202dbc742" />
+
+
 
 Think of **Amazon Bedrock** as:
 
