@@ -1,4 +1,4 @@
-# 🧠 AWS Bedrock — Easy, Visual + Hands-on Explanation
+# AWS Bedrock — Easy, Visual + Hands-on Explanation
 
 <img width="1180" height="1333" alt="BR3" src="https://github.com/user-attachments/assets/a6b5afe8-67ad-4478-9243-ee96de971c71" />
 
